@@ -5,7 +5,6 @@
 - User login
 - Token generation
 - Token validation
-- 
 ## Setup Instructions
 1. Clone repository
 2. Install dependencies
